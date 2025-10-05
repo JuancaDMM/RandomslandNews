@@ -1,0 +1,14 @@
+{
+  "news": [
+    {
+      "title": "🎉 Bienvenido a Randomsland",
+      "date": "2025-10-04",
+      "content": "Gracias por usar el launcher! Aquí verás todas las novedades del servidor."
+    },
+    {
+      "title": "📢 Primera Noticia de Prueba",
+      "date": "2025-10-04",
+      "content": "<p>Esta es una noticia de prueba con <b>texto en negrita</b> y <i>cursiva</i>.</p><p>Puedes usar HTML para darle estilo!</p>"
+    }
+  ]
+}
