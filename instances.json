@@ -1,0 +1,48 @@
+{
+  "instances": [
+    {
+      "id": "2024",
+      "name": "Randomsland 2024",
+      "description": "La versión principal de nuestro servidor con modpack completo y optimizado.",
+      "minecraft_version": "1.16.5",
+      "forge_version": "36.2.42",
+      "modpack_url": "https://juancadmm.github.io/Randomlind/",
+      "manifest_url": "https://juancadmm.github.io/Randomlind/manifest.json",
+      "news_url": "https://juancadmm.github.io/RandomslandNews/news.json",
+      "bg_image": "assets/background.png",
+      "logo_image": "assets/randomslandtitle.png",
+      "accent_color": "#3b82f6",
+      "title": "Randomsland 2024"
+    },
+    {
+      "id": "bingo",
+      "name": "Randomsland Bingo",
+      "description": "¡Evento de Bingo de Randomsland! Modpack optimizado para eventos de competencia.",
+      "minecraft_version": "1.20.1",
+      "loader": "fabric",
+      "loader_version": "0.15.11",
+      "modpack_url": "",
+      "manifest_url": "",
+      "news_url": "https://juancadmm.github.io/RandomslandNews/news.json",
+      "bg_image": "assets/background.png",
+      "logo_image": "assets/randomslandtitle.png",
+      "accent_color": "#ef4444",
+      "title": "Randomsland Bingo"
+    },
+    {
+      "id": "bingo2",
+      "name": "Randomsland Bingo2",
+      "description": "¡Evento de Bingo de Randomsland! Modpack optimizado para eventos de competencia.",
+      "minecraft_version": "1.20.1",
+      "loader": "fabric",
+      "loader_version": "0.19.3",
+      "modpack_url": "",
+      "manifest_url": "",
+      "news_url": "https://juancadmm.github.io/RandomslandNews/news.json",
+      "bg_image": "assets/background.png",
+      "logo_image": "assets/randomslandtitle.png",
+      "accent_color": "#ef4444",
+      "title": "Randomsland Bingo"
+    }
+  ]
+}
