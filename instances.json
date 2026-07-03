@@ -5,7 +5,8 @@
       "name": "Randomsland 2024",
       "description": "La versión principal de nuestro servidor con modpack completo y optimizado.",
       "minecraft_version": "1.16.5",
-      "forge_version": "36.2.42",
+      "loader": "forge",
+      "loader_version": "36.2.42",
       "modpack_url": "https://juancadmm.github.io/Randomlind/",
       "manifest_url": "https://juancadmm.github.io/Randomlind/manifest.json",
       "news_url": "https://juancadmm.github.io/RandomslandNews/news.json",
@@ -30,8 +31,8 @@
       "title": "Randomsland Bingo"
     },
     {
-      "id": "bingo2",
-      "name": "Randomsland Bingo2",
+      "id": "TERROR3",
+      "name": "Terror3",
       "description": "RETOFABRIC DEA",
       "minecraft_version": "1.20.1",
       "loader": "forge",
